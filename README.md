@@ -23,7 +23,7 @@ This Python script creates a polyglot JPEG/PHP file by injecting PHP code into a
 ## Usage
 
 ```bash
-python3 script.py input.jpg output.jpg
+python3 phppolyglot.py input.jpg output.jpg
 ```
 
 ## Legal Notice
